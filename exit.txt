@@ -1,0 +1,4 @@
+You deposited 200 dollars.
+***********
+You deposited 200 euros.
+***********
